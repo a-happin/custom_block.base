@@ -1,4 +1,4 @@
-datapack-template
+custom_block.base
 ==
 
 ## Features

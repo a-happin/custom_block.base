@@ -1,3 +1,5 @@
 {
-  "values": []
+  "values": [
+    "custom_block.base:tick"
+  ]
 }
